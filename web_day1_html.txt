@@ -1,0 +1,54 @@
+" A journey of a thousand miles begin with a single step "
+
+>> notepad >> add some text >> save as .html >> open in browser 
+
+>> vs code >> add folder >> add some text >> open in browser
+
+>> html = hyper text markup language
+
+>> what is markup ??  <>  </>
+
+>> paragraph tag <p> </p>
+
+>> bold tag <b> </b>
+
+>> italic tag <i> </i>
+
+>> heading tag <h1>...<h6> </h1>...</h6>
+
+>> <strong> </strong> tag
+
+>> anchor tag <a> </a>
+hypertext reference <a href=""> </a>
+
+>> image tag <img src=""> </img>
+<img src="" alt=""> </img>
+
+>> list tag <li> </li>
+ordered list <ol> </ol>
+unordered list <ul> </ul>
+
+>> input tag <input type="text">
+<input type="password">
+<input type="file">
+<input type="radio">
+<input type="checkbox">
+<button> </button>
+
+>> form tag <form action=""> (input tag) </form>
+
+>> division tag  <div> </div>
+
+>> small tag <small> </small>
+
+>> br tag <br>
+
+>> hr tag <hr>
+
+>> favicon using <link>
+
+>> Doctype html structure !
+
+>> tag attribute : href,src,type
+
+>> container tags,empty tag, Document type,simple tag
