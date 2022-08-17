@@ -1,0 +1,49 @@
+>> css = cascading style sheet
+
+>> types of css : internal or embedded(uses <style> tag to write), Inline(uses 'style' attribute to write), External(uses .css file to write)
+
+>> style tag <style> </style>
+style-name:style-value;
+
+>> Hexcode,RGB,rgba(a=opacity),hsl,hsla
+
+>> background color,height(px),width(px)
+
+>> css measurment : px,em,%,vh,rem,vw,vmax,vmin,in,cm,mm,pt,pc
+
+>> font size
+
+>> css in specific id
+<h3 id="mango">
+#mango{}
+you cannot have more than one element with the same id in an html document
+
+>> css class
+<h4 class="ok">
+.ok{}
+html elements can also contain more than one class
+
+>> span tag : <span> </span>
+
+>> border 3 part
+border: 2px solid red;
+
+>> border radius
+
+>> margin 2 side : updown,leftright
+margin 4 side : clock wise
+margin work for outsidde the border
+
+>> padding work for inside the border.
+padding create space around an elements content,inside of any defined borders
+padding same as border
+
+>> css box model : border,margin,width,height,padding
+
+>> text align,font size ,font family, font weight
+
+>> block element >> inline block
+inline : anchor,span,small
+newline : paragraph,div,li
+
+>> css link ,display inline, display block
