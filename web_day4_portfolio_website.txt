@@ -1,0 +1,6 @@
+>> create a new folder > new html > new css > push in github
+
+>> website for online bg remove : remove.bg
+>> websiter for online photoshop : photopea
+
+>> how to use google fonts in html and css
