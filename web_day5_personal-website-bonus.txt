@@ -1,0 +1,15 @@
+CSS Box model
+
+>> pseudo-box >>new folder name
+
+>> inline element and block element
+
+>> inline and block element tag
+
+>>box model >> div vs span >> border image slice idea
+
+>> pseudo class hover,focus,visited link
+
+>> first child,second child, nth child,pseudo element before after how it works
+
+>>
