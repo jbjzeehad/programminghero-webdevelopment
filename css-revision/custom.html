@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom property</title>
+</head>
+<style>
+    :root {
+        --main-color: red;
+        --border-color: green;
+        --background-color: yellow;
+    }
+
+    h1 {
+
+        color: var(--main-color);
+    }
+
+    a {
+        text-decoration: none;
+    }
+
+    p {
+        color: var(--main-color);
+    }
+
+    p {
+        color: var(--main-color);
+    }
+
+    footer {
+        clear: both;
+        color: var(--main-color);
+    }
+
+    h2 {
+        color: var(--main-color);
+        border: 2px solid var(--border-color);
+    }
+
+    .side-nav,
+    .blogs {
+        float: left;
+        height: 500px;
+    }
+
+    aside {
+        background-color: aqua;
+        width: 200px;
+    }
+
+    .blogs {
+        background-color: tomato;
+        width: calc(100% - 200px);
+    }
+</style>
+<!-- comment -->
+
+<body>
+    <header>
+        <h1>I am exploring custom properties</h1>
+        <p>welcome to my website</p>
+    </header>
+    <main>
+        <a href="wwww.google.com">Google</a>
+        <h2>my awsome content</h2>
+        <h6></h6>
+        <section>
+            <aside class="side-nav">
+                my side navigation
+            </aside>
+            <div class="blogs">
+                <h4>Blogs</h4>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p><small>Copyright</small></p>
+    </footer>
+
+
+</body>
+
+</html>
